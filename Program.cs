@@ -11,12 +11,12 @@ namespace Dependency_Inversion_principle
     }
     //public class BusinessLogiclayer
     //{
-    //    private readonly DataAccessLayer DAL;  
+    //    private readonly DataAccessLayer DAL;
     //    public BusinessLogiclayer()
     //    {
     //        DAL = new DataAccessLayer();  //Tighlt coupled and Dependent
     //    }
-    //    public void Save (Object Details)
+    //    public void Save(Object Details)
     //    {
     //        DAL.Save(Details);
     //    }
@@ -25,7 +25,7 @@ namespace Dependency_Inversion_principle
     //{
     //    public void Save(Object Details)
     //    {
-    //       //DB Operations 
+    //        //DB Operations 
     //    }
     //}
 
